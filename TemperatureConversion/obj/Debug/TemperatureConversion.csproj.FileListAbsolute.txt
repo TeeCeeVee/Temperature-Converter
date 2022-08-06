@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.Form1.resources
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+C:\Users\theav\source\repos\TempConversionApp\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
